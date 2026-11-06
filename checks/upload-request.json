@@ -1,5 +1,5 @@
 {
-  "requestId": "fc7b91e83b9c6830db7df373",
+  "requestId": "92bb721e796e84742501e3ee",
   "repository": "UMEDJON12/weather-umedjon-updates",
   "applicationId": "com.umedjon.weather",
   "certificate": "f396b2bfc8e5dc74a03681a2abb8e1145d16b981bb97b80c095f8901d8d418d4",
@@ -7,6 +7,6 @@
   "sha256": "02c107139bdead4ca60840d701e3708532ff1cb354aeba89ed2d5c033d012301",
   "tag": "v1.0.7",
   "notes": "Версия 1.0.7\n\nДобавлен режим «Живая погода», выключенный по умолчанию.\nАнимацией, звуками природы и громкостью можно управлять отдельно.\nДобавлены мягкие эффекты солнца, ночи, облаков, тумана, осадков и грозы.\nНа экране поиска появилась кнопка голосового ввода.\nВерхняя звезда добавляет и удаляет текущий город. Нижняя кнопка открывает избранные города.\nДобавлены проверка обновлений через GitHub, скачивание с прогрессом и проверка APK перед системной установкой.\nСохранены исправления погодных запросов и кэширования версии 1.0.6.\n",
-  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA4prED157ftuNLh/bUFTU\nuBYq4wUeiTstP59+JdzIqHiYe0uI94xBO1PGCBtq2aXGVzkTQd7NS9PJ4kr3/qou\n5T423Fdz4PBAZNcPicRm71qZKhEZoSOmdbl3HUWFOxC3CBQw6/Jk0VEYjwVAPEO8\nQrDL7SaWwmid9nn2lEP08fc6PYrv2Z5O5PwG0jl7eWw5cXuZw2JPdAe9iWDyKF/5\nPr2gS6Fx8ebOz6o8Xq7TosgkytEKBJED1rcnDl6W1ZRqR7qQDFe1oLZNhp/djELA\nJBfQfgcUhQFKWOSWkqRyQUYCl67400fHZe1BOAkZX1XZKheL4r38K8uDjW3r2Dpo\nye7yGJShNrGUnoGsyg4fSUV2N+PbpArPGNcWbiSTL1iVi7duAXKVIVoIR7JTWaen\n/zCY8QYBI+9fltsGfb/KJgqs9pwvQIk9rBE+Ghh3uwf8OojAktmDbBhZ4aM+UKEU\n8fYGjj52MW4Sv4ohxDW5Z6yb59Uq0r9BcMePjqEKdoD9VUSpr3f73WddeLs8B2sE\n3aymFCN0hvBiBo32fHkALaKRWzNBj7OHxZk/J5QdyI282vVfNUHnfEfTu51nVDx5\nPLMzWPgbj5KmWjqs9vtFKxi7C9JtuWO8ZH1gJ8bDD4ExbrEFWCeG4OZNJkJRZzsK\nFFkMzoj+2WoFR+utZVEVXaMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
-  "publicKeySha256": "3c75154a55129ca64a7828d478fae4571fa648a57a26390489625017052509aa"
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAwfMUg50beF7eMIhtGydD\nhMNDMPk0m5wGcT2nJBfrc7ytOz7lxuXencSowslcEcbF9JOAb0vu40yaZmOqA9gE\nVnEIeoXOZZfN3N3ETrhO0zQZJRfx3r+2tUoCzkWUnLt6o7ro+EzkN0+pt2lv4R6b\nvgIzWr0tsFDxuksJNi9AJCDQyxUtg5UOOPgKQklTxv4zyCACRRSTySwJgvxLHS69\nN5MD/l7V/WSEI4AMBdvl5FlGG2EtAQTi4QMD11SSumEWfRELXutdbJvOGsRPWehg\n+jjckAIJLZ7MYa/DjWY01XiWnZWiU8BiNOQvKbXtEK18Imwv4iKnKTr97pOr4K3W\nVJ99AbqtNbDspKw87OtFZ92a3sI0yvbBnCwp/Fv3jmoa0+rFN8LtPh79n/hEG35W\nxzGiXnpejCPCtsvrRlhCONvCxQLCesR6Xq7sYjHScVtJb7yWcPsWiwHpaIhZJM8H\nHN4LimqQdsToe2PSSxHHmDRzWswUr9TJLDTAf7EvU/zHA4/XjNxd4pEe0yroQIyJ\nmd8hpUh5rj5D14rjJ4C0t/7hKvZXOH7iuPiYYBMX26pxEunm3beY4r6ODyT4EomG\nRPRs8AcBY0YT0xsb6cJkQ3swu4EtfX7eJU0uuAIcZP0Ix4SMgoUAmbJH1J2JSqH2\naSnIxJaGEMYzv+CanNwIzesCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "publicKeySha256": "ede8a5524f219997e324661190e7aecc4c9f612c9abc0f5b4479fc5c6cc84906"
 }
