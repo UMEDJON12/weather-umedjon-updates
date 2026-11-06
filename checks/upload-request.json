@@ -1,0 +1,12 @@
+{
+  "requestId": "fc7b91e83b9c6830db7df373",
+  "repository": "UMEDJON12/weather-umedjon-updates",
+  "applicationId": "com.umedjon.weather",
+  "certificate": "f396b2bfc8e5dc74a03681a2abb8e1145d16b981bb97b80c095f8901d8d418d4",
+  "versionCode": 8,
+  "sha256": "02c107139bdead4ca60840d701e3708532ff1cb354aeba89ed2d5c033d012301",
+  "tag": "v1.0.7",
+  "notes": "Версия 1.0.7\n\nДобавлен режим «Живая погода», выключенный по умолчанию.\nАнимацией, звуками природы и громкостью можно управлять отдельно.\nДобавлены мягкие эффекты солнца, ночи, облаков, тумана, осадков и грозы.\nНа экране поиска появилась кнопка голосового ввода.\nВерхняя звезда добавляет и удаляет текущий город. Нижняя кнопка открывает избранные города.\nДобавлены проверка обновлений через GitHub, скачивание с прогрессом и проверка APK перед системной установкой.\nСохранены исправления погодных запросов и кэширования версии 1.0.6.\n",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA4prED157ftuNLh/bUFTU\nuBYq4wUeiTstP59+JdzIqHiYe0uI94xBO1PGCBtq2aXGVzkTQd7NS9PJ4kr3/qou\n5T423Fdz4PBAZNcPicRm71qZKhEZoSOmdbl3HUWFOxC3CBQw6/Jk0VEYjwVAPEO8\nQrDL7SaWwmid9nn2lEP08fc6PYrv2Z5O5PwG0jl7eWw5cXuZw2JPdAe9iWDyKF/5\nPr2gS6Fx8ebOz6o8Xq7TosgkytEKBJED1rcnDl6W1ZRqR7qQDFe1oLZNhp/djELA\nJBfQfgcUhQFKWOSWkqRyQUYCl67400fHZe1BOAkZX1XZKheL4r38K8uDjW3r2Dpo\nye7yGJShNrGUnoGsyg4fSUV2N+PbpArPGNcWbiSTL1iVi7duAXKVIVoIR7JTWaen\n/zCY8QYBI+9fltsGfb/KJgqs9pwvQIk9rBE+Ghh3uwf8OojAktmDbBhZ4aM+UKEU\n8fYGjj52MW4Sv4ohxDW5Z6yb59Uq0r9BcMePjqEKdoD9VUSpr3f73WddeLs8B2sE\n3aymFCN0hvBiBo32fHkALaKRWzNBj7OHxZk/J5QdyI282vVfNUHnfEfTu51nVDx5\nPLMzWPgbj5KmWjqs9vtFKxi7C9JtuWO8ZH1gJ8bDD4ExbrEFWCeG4OZNJkJRZzsK\nFFkMzoj+2WoFR+utZVEVXaMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "publicKeySha256": "3c75154a55129ca64a7828d478fae4571fa648a57a26390489625017052509aa"
+}
