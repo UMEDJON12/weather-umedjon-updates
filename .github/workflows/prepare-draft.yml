@@ -1,0 +1,20 @@
+name: Prepare owner-requested Weather draft
+on:
+  push:
+    branches: [main]
+    paths: [checks/upload-request.json]
+permissions:
+  contents: write
+concurrency:
+  group: weather-draft-upload
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Prepare and verify the draft
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 update-tools/release_tools.py draft
