@@ -1,0 +1,20 @@
+name: Verify published Weather update
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: weather-stable-channel
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Verify public APK before changing the channel
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 update-tools/release_tools.py publish
